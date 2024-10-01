@@ -10,7 +10,7 @@
   font-variation-settings: "wdth" 100;
 }
 .app {
-  background-image: url("C:\Users\shiva\OneDrive\Desktop\Weather-App\src\assets\Images\back3.jpg");
+  background-image: url("./assets/Images/back3.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -46,7 +46,6 @@ function Weather() {
   console.log(weatherdata);
   return (
     <div className="weather">
-      {/* <img src={assets.back1} alt="" /> */}
       <div className="search-bar">
         <input
           value={city}
